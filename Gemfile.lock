@@ -1,0 +1,17 @@
+GIT
+  remote: https://github.com/rokhimin/ygoprodeck
+  revision: 19bd55c5e987d1f2bffb35568734a6884410cb3c
+  specs:
+    ygoprodeck (1.0.3)
+
+GEM
+  specs:
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  ygoprodeck (= 1.0.3)!
+
+BUNDLED WITH
+   1.17.2
